@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren DUZOVA</h1>
-<h3 align="center">A passionate java backand developer from Turkey</h3>
+<h3 align="center">A passionate backand developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Java, Spring Boot**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **erenduzova@gmail.com**
 
