@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren DUZOVA</h1>
-<h3 align="center">A passionate backand developer from Turkey</h3>
-
-- 🌱 I’m currently learning **C++**
+<h3 align="center">A passionate developer from Turkey</h3>
 
 - 📫 How to reach me **erenduzova@gmail.com**
 
